@@ -1,4 +1,4 @@
-### Olá, eu sou a Bruno Takazono! 👩🏻‍💻
+### Olá, eu sou o Bruno Takazono! 👩🏻‍💻
 
 - 💻 Atualmente interessado nas linguagens Python, C/C++, Java e React
 - 🖍️ Buscando aprender novas linguagens
